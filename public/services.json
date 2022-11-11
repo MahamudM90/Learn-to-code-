@@ -1,0 +1,50 @@
+[
+  {
+    "service_id":"04",
+    "title": "BlockChain",
+    "img": "https://blogs.iadb.org/caribbean-dev-trends/wp-content/uploads/sites/34/2017/12/Blockchain1.jpg",
+    "price": 20,
+    "rating": 5,
+    "description": "A blockchain is a type of distributed ledger technology (DLT) that consists of growing list of records, called blocks, that are securely linked together using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree, where data nodes are represented by leaves). The timestamp proves that the transaction data existed when the block was created.  Consequently, blockchain transactions are irreversibled retroactively without altering all subsequent blocks. Blockchains are typically managed by a peer-to-peer (P2P) computer network for use as a public distributed ledger, where nodes collectively adhere to a consensus algorithm protocol to add and validate new transaction blocks. Although blockchain records are not unalterable, since blockchain forks are possible, blockchains may be considered secure by design and exemplify a distributed computing system with high Byzantine fault tolerance.[5]"
+  },
+  {
+    "service_id":"05",
+    "title": "Artificial intelligence",
+    "img": "https://bernardmarr.com/img/blog/big-data/What%20is%20Artificial%20Intelligece%20AI.png",
+    "price": 20,
+    "rating": 6,
+    "description": "Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to intelligence displayed by animals and humans. OED (OUP) defines artificial intelligence the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.Several important sub-fields of AI research (as opposed to AI itself) have used working definitions of the intelligent agents field of study, which refers to any system that perceives its environment using an AI-component and takes actions (using procedural / hard-coded components) that maximize its chance of achieving its goals.[a] While intelligent agents as systems that use artificial intelligence are an important application of AI, many AI systems do not perform any procedural (hard-coded) steps with the outputs of the AI at all, such as computer vision, speech recognition, or recommender systems (often not even decising on an output from probabilities, but outputting several)."
+  },
+  {
+    "service_id":"01",
+    "title": "Machine learning",
+    "img": "https://techduffer.com/wp-content/uploads/2022/06/Machine-learning.png",
+    "price": 200,
+    "rating": 4,
+    "description": "Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.[1] It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.[2] Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, agriculture, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.[3][4] A subset of machine learning is closely related to computational statistics, which focuses on making predictions using computers, but not all machine learning is statistical learning. The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning. Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning.[6][7] Some implementations of machine learning use data and neural networks in a way that mimics the working of a biological brain.[8][9] In its application across business problems, machine learning is also referred to as predictive analytics."
+  },
+  {
+    "service_id":"02",
+    "title": "Deep Learning",
+    "img": "https://miro.medium.com/max/1018/1*I5O6NX_DIKYI1VBuLfX77Q.jpeg",
+    "price": 150,
+    "rating": 7,
+    "description": "Human–computer interaction (HCI) is research in the design and the use of computer technology, which focuses on the interfaces between people (users) and computers. HCI researchers observe the ways humans interact with computers and design technologies that allow humans to interact with computers in novel ways. A device that allows interaction between human being and a computer is known as a Human-computer Interface (HCI).As a field of research, human–computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study. The term was popularized by Stuart K. Card, Allen Newell, and Thomas P. Moran in their 1983 book, The Psychology of Human–Computer Interaction. The first known use was in 1975 by Carlisle.[1] The term is intended to convey that, unlike other tools with specific and limited uses, computers have many uses which often involve an open-ended dialogue between the user and the computer. The notion of dialogue likens human–computer interaction to human-to-human interaction: an analogy that is crucial to theoretical considerations in the field.[2][3]"
+  },
+  {
+    "service_id":"03",
+    "title": "Quantum Computing",
+    "img": "https://www.businesspally.com/wp-content/uploads/2021/02/What-is-Quantum-computing-and-how-it-works-by-Techpally.jpeg",
+    "price": 30,
+    "rating": 6,
+    "description": "Quantum computing is a type of computation whose operations can harness the phenomena of quantum mechanics, such as superposition, interference, and entanglement. Devices that perform quantum computations are known as quantum computers.[1][2] Though current quantum computers are too small to outperform usual (classical) computers for practical applications, larger realizations are believed to be capable of solving certain computational problems, such as integer factorization (which underlies RSA encryption), substantially faster than classical computers. The study of quantum computing is a subfield of quantum information science.  There are several models of quantum computation with the most widely used being quantum circuits. Other models include the quantum Turing machine, quantum annealing, and adiabatic quantum computation. Most models are based on the quantum bit, or qubit, which is somewhat analogous to the bit in classical computation. A qubit can be in a 1 or 0 quantum state, or in a superposition of the 1 and 0 states. When it is measured, however, it is always 0 or 1; the probability of either outcome depends on the qubit's quantum state immediately prior to measurement. One model that does not use qubits is continuous variable quantum computation."
+  },
+  {
+    "service_id":"06",
+    "title": "Computer Interaction",
+    "img": "https://scienceonlinenow.org/wp-content/uploads/human-computer-interaction-3.jpg",
+    "price": 20,
+    "rating": 7,
+    "description": "Human–computer interaction (HCI) is research in the design and the use of computer technology, which focuses on the interfaces between people (users) and computers. HCI researchers observe the ways humans interact with computers and design technologies that allow humans to interact with computers in novel ways. A device that allows interaction between human being and a computer is known as a Human-computer Interface (HCI) As a field of research, human–computer interaction is situated at the intersection of computer science, behavioral sciences, design, media studies, and several other fields of study. The term was popularized by Stuart K. Card, Allen Newell, and Thomas P. Moran in their 1983 book, The Psychology of Human–Computer Interaction. The first known use was in 1975 by Carlisle.[1] The term is intended to convey that, unlike other tools with specific and limited uses, computers have many uses which often involve an open-ended dialogue between the user and the computer. The notion of dialogue likens human–computer interaction to human-to-human interaction: an analogy that is crucial to theoretical considerations in the field."
+  }
+]
